@@ -3,7 +3,7 @@
 Simple token system for typescript
 
 Install token.ts
-```cmd
+```bat
 npm i token.ts
 ```
 
