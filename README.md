@@ -1,6 +1,11 @@
-# token.js
+# token.ts
 
 Simple token system for typescript
+
+Install token.ts
+```cmd
+npm i token.ts
+```
 
 Creating a token
 ```js
