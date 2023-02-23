@@ -1,0 +1,28 @@
+{
+  "name": "tokenizer",
+  "version": "1.0.0",
+  "description": "A simple module to secur your app with token.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filioz/tokenizer.git"
+  },
+  "keywords": [
+    "token",
+    "secur",
+    "api",
+    "auth"
+  ],
+  "author": "Filioz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filioz/tokenizer/issues"
+  },
+  "homepage": "https://github.com/filioz/tokenizer#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
